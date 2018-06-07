@@ -1,6 +1,6 @@
 {
-  "name": "jsdoc-vuejs",
-  "version": "1.0.13",
+  "name": "jsdoc-vuejs-alTimewax",
+  "version": "1.0.1",
   "description": "A JSDoc plugin for documenting .vue files.",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
     "vue component",
     "vue file"
   ],
-  "author": "Hugo Alliaume <kocal@live.fr>",
+  "author": "Hugo Alliaume <kocal@live.fr>, alTimewax edit",
   "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/Kocal/jsdoc-vuejs/issues"

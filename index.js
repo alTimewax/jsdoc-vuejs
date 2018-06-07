@@ -32,6 +32,9 @@ exports.handlers = {
        */
       e.doclet.description = `</p></div></div>`
 
+      // alTimewax //
+      docletHandlers.handleDescription(e, vueComponentPrototype)
+      ////
       docletHandlers.handleProps(e, vueComponentPrototype)
       docletHandlers.handleComputed(e, vueComponentPrototype)
       docletHandlers.handleData(e, vueComponentPrototype)

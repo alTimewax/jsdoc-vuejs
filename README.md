@@ -1,6 +1,10 @@
 JSDoc for VueJS
 ===============
 
+## alTimewax
+
+Add a description for Vue component
+
 [![npm version](https://badge.fury.io/js/jsdoc-vuejs.svg)](https://badge.fury.io/js/jsdoc-vuejs)
 [![Build Status](https://travis-ci.org/Kocal/jsdoc-vuejs.svg?branch=master)](https://travis-ci.org/Kocal/jsdoc-vuejs)
 [![Coverage Status](https://coveralls.io/repos/github/Kocal/jsdoc-vuejs/badge.svg?branch=master)](https://coveralls.io/github/Kocal/jsdoc-vuejs?branch=master)
@@ -31,7 +35,7 @@ Update your JSDoc configuration
     "includePattern": "\\.(vue|js)$"
   },
   "jsdoc-vuejs": {
-    "followImports": true // enable/disable require/import function 
+    "followImports": true // enable/disable require/import function
   }
 }
 ```
@@ -46,7 +50,7 @@ Update your .vue files:
 <script>
   /**
    * Add the @vue tag here
-   * @vue 
+   * @vue
    */
   export default {
     data () {
