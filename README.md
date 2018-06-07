@@ -11,7 +11,7 @@ JSDoc for VueJS
 
 ## alTimewax
 
-Add a description for Vue component
+Add a description to Vue component
 
 ## Installation
 
