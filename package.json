@@ -1,5 +1,5 @@
 {
-  "name": "jsdoc-vuejs-alTimewax",
+  "name": "jsdoc-vuejs-altimewax",
   "version": "1.0.1",
   "description": "A JSDoc plugin for documenting .vue files.",
   "main": "index.js",
