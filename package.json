@@ -1,6 +1,6 @@
 {
   "name": "jsdoc-vuejs-altimewax",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A JSDoc plugin for documenting .vue files.",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kocal/jsdoc-vuejs.git"
+    "url": "git+https://github.com/alTimewax/jsdoc-vuejs"
   },
   "keywords": [
     "jsdoc",
@@ -19,10 +19,6 @@
   ],
   "author": "Hugo Alliaume <kocal@live.fr>, alTimewax edit",
   "license": "GPL-3.0",
-  "bugs": {
-    "url": "https://github.com/Kocal/jsdoc-vuejs/issues"
-  },
-  "homepage": "https://github.com/Kocal/jsdoc-vuejs#readme",
   "dependencies": {
     "babel-core": "^6.26.0",
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
